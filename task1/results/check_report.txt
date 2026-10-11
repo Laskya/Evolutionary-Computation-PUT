@@ -1,0 +1,8 @@
+TSPA  random        cpp= 232767 python= 232767 feasible=True match=True
+TSPA  nn_end        cpp=  84362 python=  84362 feasible=True match=True
+TSPA  nn_any        cpp=  72328 python=  72328 feasible=True match=True
+TSPA  greedy_cycle  cpp=  72590 python=  72590 feasible=True match=True
+TSPB  random        cpp= 184861 python= 184861 feasible=True match=True
+TSPB  nn_end        cpp=  56007 python=  56007 feasible=True match=True
+TSPB  nn_any        cpp=  52915 python=  52915 feasible=True match=True
+TSPB  greedy_cycle  cpp=  55655 python=  55655 feasible=True match=True
