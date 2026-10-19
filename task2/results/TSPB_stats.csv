@@ -1,0 +1,9 @@
+method,min,max,avg
+random,184861,227890,207121.19
+nn_end,56007,63166,59397.33
+nn_any,52915,66164,59475.50
+greedy_cycle,55655,63734,59649.91
+nn_any_regret,68761,79756,73649.84
+nn_any_weighted,50485,61406,55698.34
+greedy_cycle_regret,68150,77274,72484.84
+greedy_cycle_weighted,52731,63370,57866.33

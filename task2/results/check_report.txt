@@ -1,0 +1,16 @@
+TSPA  random                 solver= 232767 length= 140370 costs= 92397 python= 232767 feasible=True match=True
+TSPA  nn_end                 solver=  84362 length=  31319 costs= 53043 python=  84362 feasible=True match=True
+TSPA  nn_any                 solver=  72328 length=  21816 costs= 50512 python=  72328 feasible=True match=True
+TSPA  greedy_cycle           solver=  72590 length=  21570 costs= 51020 python=  72590 feasible=True match=True
+TSPA  nn_any_regret          solver= 110950 length=  21279 costs= 89671 python= 110950 feasible=True match=True
+TSPA  nn_any_weighted        solver=  72419 length=  20127 costs= 52292 python=  72419 feasible=True match=True
+TSPA  greedy_cycle_regret    solver= 112806 length=  21429 costs= 91377 python= 112806 feasible=True match=True
+TSPA  greedy_cycle_weighted  solver=  72011 length=  20248 costs= 51763 python=  72011 feasible=True match=True
+TSPB  random                 solver= 184861 length= 134927 costs= 49934 python= 184861 feasible=True match=True
+TSPB  nn_end                 solver=  56007 length=  24632 costs= 31375 python=  56007 feasible=True match=True
+TSPB  nn_any                 solver=  52915 length=  20068 costs= 32847 python=  52915 feasible=True match=True
+TSPB  greedy_cycle           solver=  55655 length=  19634 costs= 36021 python=  55655 feasible=True match=True
+TSPB  nn_any_regret          solver=  68761 length=  22801 costs= 45960 python=  68761 feasible=True match=True
+TSPB  nn_any_weighted        solver=  50485 length=  18835 costs= 31650 python=  50485 feasible=True match=True
+TSPB  greedy_cycle_regret    solver=  68150 length=  21400 costs= 46750 python=  68150 feasible=True match=True
+TSPB  greedy_cycle_weighted  solver=  52731 length=  16365 costs= 36366 python=  52731 feasible=True match=True
